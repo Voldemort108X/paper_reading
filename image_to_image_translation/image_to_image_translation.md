@@ -1,6 +1,7 @@
 # Image to Image Translation
 
-| Title | Motivation | Method | Conclusion | Application | Year | Limitation |
-| - | - | - | - | - | - | - |
-| Contrastive Learning for Unpaired Image-to-Image Translation [[Paper]](https://arxiv.org/pdf/2007.15651.pdf) | Maximize the mutual information of corresponding path in input and target using contrastive learning. | Multilayer, patchwise contrastive loss + CycleGAN setting. | | Unpaired img2img translation | 2020
+| Title | Motivation | Method | Conclusion | Application | Year | Limitation | Comment |
+| - | - | - | - | - | - | - | - |
+| Contrastive Learning for Unpaired Image-to-Image Translation [[Paper]](https://arxiv.org/pdf/2007.15651.pdf) | Maximize the mutual information of corresponding path in input and target using contrastive learning. | Multilayer, patchwise contrastive loss (patchNCE/external) + CycleGAN setting. | 1) Draw negatives within the image itself for contrastive loss. 2) Learns cross-domain similarity function without perceptual loss/L1 loss. 3) Enable one-sided translation without relying on cycle-consistency. 4) Enable single-image unpaired translation. | Unpaired image to image translation | 2020 | | PatchNCE takes average of (generated representation, postive representation, negative representation(other patches in the same image)). External takes average of (generated representation, postive representation, negative representation(other image patches in the dataset)). 
 | A Simple Framework for Contrastive Learning of Visual Representations [[Paper]](https://arxiv.org/pdf/2002.05709.pdf) |
+| Momentum contrast for unsupervised visual representation learning [[Paper]](https://arxiv.org/pdf/1911.05722.pdf)
