@@ -1,5 +1,5 @@
 # Quick Paper reading
-Paper reading for current research. Each category includes a **table** summarizing current SOTA papers. There is an overall **flowchart** summarizing its developement. [[Flowchart]](https://voldemort108x.github.io/paper_reading/image_to_image_translation/flowchart.html)
+Paper reading for current research. Each category includes a **table** summarizing current SOTA papers. There is an overall **flowchart** summarizing its developement. [[Flowchart]](https://voldemort108x.github.io/paper_reading/flowchart.html)
 1. Image segmentation
 2. Image registration
 3. Image to image translation [[Table]](./image_to_image_translation/image_to_image_translation.md) 
