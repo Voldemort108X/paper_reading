@@ -2,7 +2,7 @@
 
 | Title | Publication | Motivation | Method | Conclusion| Limitation | Comment |
 | - | - | - | - | - | - | - |
-| Domain Adaptive Faster R-CNN for Object Detection in the Wild [[paper]](https://arxiv.org/pdf/1803.03243) | CVPR'18 | Motivation | Method | Conclusion| Limitation | Comment |
+| Domain Adaptive Faster R-CNN for Object Detection in the Wild [[paper]](https://arxiv.org/abs/1803.03243) | CVPR'18 | Motivation | Method | Conclusion| Limitation | Comment |
 | Strong-Weak Distribution Alignment for Adaptive Object Detection [[paper]](https://arxiv.org/abs/1812.04798) | CVPR'19 | Motivation | Method | Conclusion| Limitation | Comment |
 | Diversify and Match_A Domain Adaptive Representation Learning Paradigm for Object Detection [[paper]](https://arxiv.org/abs/1905.05396) | CVPR'19 | Motivation | Method | Conclusion| Limitation | Comment |
 | Exploring Object Relation in Mean Teacher for Cross-Domain Detection [[paper]](https://arxiv.org/abs/1904.11245) | CVPR'19 | Motivation | Method | Conclusion| Limitation | Comment |
@@ -12,6 +12,8 @@
 | A Robust Learning Approach to Domain Adaptive Object Detection [[paper]](https://arxiv.org/abs/1904.02361) | ICCV'19 | Motivation | Method | Conclusion| Limitation | Comment |
 | Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[paper]](https://arxiv.org/abs/1907.10343) | ICCV'19 | Motivation | Method | Conclusion| Limitation | Comment |
 | Multi-Level Domain Adaptive Learning for Cross-Domain Detection [[paper]](https://arxiv.org/abs/1907.11484) | ICCVW'19 | Motivation | Method | Conclusion| Limitation | Comment |
+| SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[paper]](https://arxiv.org/abs/1911.02559) | Arxiv'19 | Motivation | Method | Conclusion| Limitation | Comment |
+| Unbiased Mean Teacher for Cross Domain Object Detection [[paper]](https://arxiv.org/abs/2003.00707) | Arxiv'19 | Motivation | Method | Conclusion| Limitation | Comment |
 | iFAN: Image-Instance Full Alignment Networks for Adaptive Object Detection [[paper]](https://arxiv.org/abs/2003.04132) | AAAI'20 | Motivation | Method | Conclusion| Limitation | Comment |
 | Exploring Categorical Regularization for Domain Adaptive Object Detection [[paper]](https://arxiv.org/abs/2003.09152) | CVPR'20 | Motivation | Method | Conclusion| Limitation | Comment |
 | Cross-domain Detection via Graph-induced Prototype Alignment [[paper]](https://arxiv.org/abs/2003.12849) | Publication | CVPR'20 | Method | Conclusion| Limitation | Comment |
