@@ -10,3 +10,6 @@ Paper reading for current research. Each category includes a **table** summarizi
 8. Video object detection 
 9. Video object segmentation [[Table]](./video_object_segmentation/video_object_segmentation.md)
 10. Video-to-video translation [[Table]](./video2video_translation/video2video_translation.md)
+11. Object Detection
+12. Semantic Segmentation
+13. Instance Segmentation
